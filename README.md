@@ -1,38 +1,115 @@
-# Hi there, I'm Raghunathareddy G R 👋
+<div align="center">
 
-**Founder of MLOps.dev | AI & Machine Learning Engineer**
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · raghunath2604</sub></p>
+<h1>RAGHUNATHAREDDY GR</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Building useful software and sharing the work in public.</p>
+<p><strong>● Building and sharing work in public</strong></p>
 
-I am an Artificial Intelligence and Machine Learning specialist currently pursuing my B.Tech in Computer Science and Engineering at REVA University. I specialize in designing multi-agent AI applications, building self-healing agentic MLOps pipelines, and deploying robust machine learning models to edge devices.
+<p><a href="https://github.com/raghunath2604">GitHub</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/214975146?u=85be9b3100e3ca9a6a0d20106897cf04078964e1&amp;v=4" width="180" alt="RAGHUNATHAREDDY GR GitHub avatar" />
+</td>
+</tr>
+</table>
+</div>
 
-### 🚀 Featured Work & Architecture
+<h2>What teams can evaluate quickly</h2>
 
-**MLOps & Cloud Infrastructure**
-* **[mlops-dev-server](https://github.com/Raghunath2604/mlops-dev-server)** & **[Raghunath2604-mlops-dev](https://github.com/Raghunath2604/Raghunath2604-mlops-dev):** Core infrastructure and frontend for deploying ML models to edge devices.
-* **[fraud-detection-docker-ecs](https://github.com/Raghunath2604/fraud-detection-docker-ecs):** Containerized deployment of fraud detection models.
-* **[cv-inference-k8s](https://github.com/Raghunath2604/cv-inference-k8s):** Computer vision inference pipelines deployed on Kubernetes.
-* **[txn-feature-pipeline](https://github.com/Raghunath2604/txn-feature-pipeline):** Robust feature engineering pipelines for transaction data.
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · Python · HTML · JavaScript</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>28 repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>345 contributions · 44 active days</p></td>
+</tr>
+</table>
 
-**AI/ML & Reinforcement Learning**
-* **[Proximal-Policy-Optimization-PPO-](https://github.com/Raghunath2604/Proximal-Policy-Optimization-PPO-):** Implementation of PPO algorithms for reinforcement learning tasks.
-* **[-Sim-to-Real_Robustness](https://github.com/Raghunath2604/Sim-to-Real_Robustness):** Bridging the gap between simulated environments and real-world edge deployment.
-* **[RAG_mlops](https://github.com/Raghunath2604/RAG_mlops):** Retrieval-Augmented Generation integrations within MLOps lifecycles.
+<p><sub>Building useful software and sharing the work in public.</sub></p>
 
-**Smart Systems & Analytics**
-* **[mutual-fund-analytics](https://github.com/Raghunath2604/mutual-fund-analytics):** Quantitative models and backend analytics for mutual funds.
-* **[geospatial-measurement-api](https://github.com/Raghunath2604/geospatial-measurement-api):** APIs designed for geospatial analytics.
-* **[RIO_PROJECT-SMART_CITY-](https://github.com/Raghunath2604/RIO_PROJECT-SMART_CITY-):** Architectures designed for smart city infrastructure.
+<h2>Proof at a glance</h2>
 
-### 🛠️ Core Technologies
-* **Languages:** Python, TypeScript/JavaScript, C++, Go 
-* **Machine Learning:** PyTorch, Reinforcement Learning (PPO), LLM/RAG, Computer Vision
-* **MLOps & DevOps:** Docker, Kubernetes (EKS), MLflow, DVC, CI/CD
-* **Full-Stack:** React, Tailwind CSS
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>28</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>345</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>1</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
-### 🤝 Let's Connect!
-* 📧 **Email:** raghunathareddygr94@gmail.com
-* 💼 **LinkedIn:** https://www.linkedin.com/in/raghunathareddy-gr-30a964341/
-* 🌐 **Portfolio:** https://raghunath-portfolio-beta.vercel.app/
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=raghunath2604&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F214975146%3Fu%3D85be9b3100e3ca9a6a0d20106897cf04078964e1%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=raghunath2604&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F214975146%3Fu%3D85be9b3100e3ca9a6a0d20106897cf04078964e1%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="RAGHUNATHAREDDY GR GitHub proof metrics" />
+</picture>
+</p>
 
----
-⭐️ *Constantly practicing algorithmic problem-solving and exploring the intersection of AI video generation and visual effects.*
-<img width="1080" height="607" alt="content_capped_resolution" src="https://github.com/user-attachments/assets/3f4f051c-5355-40ed-bc79-609d63991c52" />
+<h2>Selected work</h2>
+
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=raghunath2604&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F214975146%3Fu%3D85be9b3100e3ca9a6a0d20106897cf04078964e1%26v%3D4&repos=raghunath2604%2F-Sim-to-Real_Robustness%2Craghunath2604%2FProximal-Policy-Optimization-PPO-%2Craghunath2604%2FClinicDesk%2Craghunath2604%2Fmutual-fund-analytics&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=raghunath2604&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F214975146%3Fu%3D85be9b3100e3ca9a6a0d20106897cf04078964e1%26v%3D4&repos=raghunath2604%2F-Sim-to-Real_Robustness%2Craghunath2604%2FProximal-Policy-Optimization-PPO-%2Craghunath2604%2FClinicDesk%2Craghunath2604%2Fmutual-fund-analytics&v=recruiter-projects-1&mode=dark" width="100%" alt="RAGHUNATHAREDDY GR selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/Raghunath2604/-Sim-to-Real_Robustness">-Sim-to-Real_Robustness</a></h3>
+<p>A selected public project.</p>
+<p><sub>⭐ 0 · 🍴 0</sub></p>
+<p><a href="https://github.com/Raghunath2604/-Sim-to-Real_Robustness">Read the repository →</a></p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/Raghunath2604/Proximal-Policy-Optimization-PPO-">Proximal-Policy-Optimization-PPO-</a></h3><p>A selected public project.</p><p><sub>Python · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/Raghunath2604/ClinicDesk">ClinicDesk</a></h3><p>A selected public project.</p><p><sub>Open source · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/Raghunath2604/mutual-fund-analytics">mutual-fund-analytics</a></h3><p>A selected public project.</p><p><sub>Python · ⭐ 0</sub></p></td>
+</tr>
+</table>
+
+<h2>Technical toolkit</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=raghunath2604&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F214975146%3Fu%3D85be9b3100e3ca9a6a0d20106897cf04078964e1%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=raghunath2604&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F214975146%3Fu%3D85be9b3100e3ca9a6a0d20106897cf04078964e1%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="RAGHUNATHAREDDY GR technology stack" />
+</picture>
+</p>
+
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>Python</strong><br /><sub>46% of public code</sub></td>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>31% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>8% of public code</sub></td>
+<td width="20%" align="center"><strong>C++</strong><br /><sub>6% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>4% of public code</sub></td>
+</tr>
+</table>
+
+<h2>Consistency signal</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=raghunath2604&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F214975146%3Fu%3D85be9b3100e3ca9a6a0d20106897cf04078964e1%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=raghunath2604&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F214975146%3Fu%3D85be9b3100e3ca9a6a0d20106897cf04078964e1%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="RAGHUNATHAREDDY GR contribution activity" />
+</picture>
+</p>
+
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/raghunath2604">GitHub</a></td>
+</tr>
+</table>
+
+<p align="center"><sub>RAGHUNATHAREDDY GR · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>

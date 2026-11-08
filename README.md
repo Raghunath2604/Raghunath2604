@@ -1,83 +1,124 @@
-<div align="center"><img src="assets/profile-hero.gif" width="100%" alt="Animated diagram of a machine-learning delivery workflow" />Raghunathareddy G R
-Machine Learning & MLOps Engineering
+<div align="center"><img src="./assets/profile-hero.gif" width="100%" alt="Animated AI and MLOps engineering network banner" />RAGHUNATHAREDDY GR
+AI/ML Systems Engineering · MLOps · Reinforcement Learning
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=850&color=55D6E8&center=true&vCenter=true&width=900&lines=Engineering+ML+systems+from+prototype+to+production.;Building+observable%2C+reliable+AI+infrastructure.;Exploring+reinforcement+learning+and+robust+agents.;Turning+experiments+into+reproducible+systems." alt="Animated engineering tagline" /><a href="https://raghunath-portfolio-beta.vercel.app/"><img src="https://img.shields.io/badge/OPEN_PORTFOLIO-0B1724?style=for-the-badge&logo=vercel&logoColor=white" alt="Open portfolio" /></a>
+<a href="https://www.mlopsde.me"><img src="https://img.shields.io/badge/BUILDING_MLOPS.DEV-0B1724?style=for-the-badge&logo=python&logoColor=55D6E8" alt="MLOps.dev" /></a>
+<a href="https://www.linkedin.com/in/raghunathareddy-gr-30a964341/"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0B1724?style=for-the-badge&logo=linkedin&logoColor=55D6E8" alt="LinkedIn" /></a>
+<a href="mailto:raghunathareddygr94@gmail.com"><img src="https://img.shields.io/badge/CONTACT-0B1724?style=for-the-badge&logo=gmail&logoColor=55D6E8" alt="Email" /></a>
 
-Bengaluru, India · Final-year B.Tech student, Artificial Intelligence & Machine Learning at REVA University
+Bengaluru, India · B.Tech, Artificial Intelligence & Machine Learning · REVA University
+</div><div align="center">SYSTEMS  ·  RESEARCH  ·  DEPLOYMENT  ·  OBSERVABILITY
 
-Portfolio ·
-LinkedIn ·
-MLOps.dev ·
-Email
-</div>I’m interested in the engineering work around machine learning: preparing data, training and evaluating models, building inference services, and keeping those services observable after deployment.
+01 / About   ◇   02 / Systems   ◇   03 / Research   ◇   04 / Stack   ◇   05 / Connect
+</div>01 / The engineering focus
+I work across the machine-learning lifecycle: data and feature pipelines, model development, inference APIs, deployment automation, and production-style monitoring.
 
-Most of my recent projects use Python and the surrounding ML infrastructure ecosystem. I’ve also been working with reinforcement-learning experiments and TypeScript applications.
-Selected projects
-MLOps and deployment
-MLOps.dev · Website
-An edge-focused Python SDK and CLI for deploying and managing ML models. The project explores offline-first operation, device telemetry, drift monitoring, and deployment workflows.
-
-MLOps Commander
-A customer-churn pipeline covering orchestration, model tracking, model comparison, explainability, and monitoring. The repository includes an Airflow/MLflow-oriented workflow and a FastAPI serving layer.
-
-CV Inference on Kubernetes
-A small image-classification service for circles, squares, triangles, and stars. It uses FastAPI and PyTorch, with Docker and Kubernetes deployment manifests, HPA configuration, Prometheus/Grafana monitoring, and Python/Java load-test clients.
-
-Ticket Classification MLOps
-A DistilBERT ticket classifier with MLflow tracking and registry promotion, Evidently drift checks, tests, Docker packaging, and a GitHub Actions deployment workflow.
-
-Transaction Feature Pipeline
-A transaction-data pipeline focused on feature engineering, point-in-time correctness, data versioning, and a Feast feature-store workflow.
-
-Weather MLOps
-A weather prediction workflow using Open-Meteo data, a FastAPI inference endpoint, prediction logging, drift reports, retraining, MLflow, Prometheus, and Grafana.
-Reinforcement learning
-I’ve been using continuous-control tasks to compare algorithms and study how policies behave when simulation conditions change.
-
-PPO vs SAC vs TD3
-From-scratch implementations and a comparison harness for continuous control, including multi-seed experiments and statistical analysis.
-
-Sim-to-Real Robustness
-An experimental study of PPO policies under changes to simulation dynamics and observation conditions, using domain randomization and repeated evaluation.
-
-PPO From Scratch
-A PyTorch implementation of PPO with continuous-control experiments, ablations, evaluation, and a TorchScript/FastAPI serving path.
-<div align="center"><a href="https://github.com/Raghunath2604/Proximal-Policy-Optimization-PPO-">
-  <img src="https://raw.githubusercontent.com/Raghunath2604/Proximal-Policy-Optimization-PPO-/main/assets/halfcheetah_demo.gif" width="560" alt="HalfCheetah policy rollout from the PPO project" />
-</a>
-<sub>Policy rollout from the PPO project · <a href="https://github.com/Raghunath2604/Proximal-Policy-Optimization-PPO-">Code and experiment details</a></sub>
-</div>Other projects
-- AS³ — Autonomous Synthetic Space Scientist: a space-mission dashboard concept combining telemetry, anomaly detection, multi-agent workflows, and orbital visualisation.
-- Fog-IDS: a resource-aware intrusion-detection project for IoT and fog-computing environments.
-- ReviewPilot: an LLM-assisted code-review application with schema-validated findings and a developer feedback loop. Live application.
-- Churn model and retention agent: a churn-prediction pipeline paired with an agent workflow that uses the model as a tool.
-- Fraud Detection on AWS ECS: a FastAPI model-serving project packaged with Docker and AWS ECS deployment configuration.
-- Geospatial Measurement API: geospatial file ingestion, coordinate transformations, and geometry measurement using Python libraries.
-- Bluestock Mutual Fund Analytics: mutual-fund performance and investor analytics with a Streamlit dashboard.
-- DPI Engine: a C++ packet-inspection and network-traffic analysis project.
-- Prism — Stellar Soroban: a Rust and Soroban smart-contract project exploring tokenised real-world liabilities.
-<details>
-  <summary>More repositories</summary>- HirePilot AI — resume-based interview preparation and coaching workflows.
-- Zenith MLOps Dashboard — sentiment analysis, human review, retraining, and observability.
-- Enterprise MLOps Lifecycle — data and model versioning, serving, CI/CD, and monitoring.
-- ZipIt — an AI-assisted MLOps platform project.
-- Bluestock FinTech coursework — financial-data extraction, analysis, and software-development work.
-- Personal portfolio source.
-</details>Tools and technologies
-These are tools I’ve used across projects and experiments.
-Area	Tools
-Languages	Python, SQL, C++, TypeScript, JavaScript
-ML and data	PyTorch, scikit-learn, Hugging Face, OpenCV, PySpark
-Model lifecycle	MLflow, DVC, Evidently, Feast, Airflow
-Serving and infrastructure	FastAPI, Docker, Kubernetes, AWS, Nginx
-Monitoring	Prometheus, Grafana, Loki
-Data stores and UI	PostgreSQL, MongoDB, Redis, React, Next.js
+My focus is on the engineering around the model — making systems reproducible, observable, testable, and deployable rather than stopping at a training notebook.
+Focus	What I build and explore
+MLOps / LLMOps	Model lifecycle workflows, experiment tracking, drift monitoring, CI/CD, RAG and agentic applications
+Cloud-native ML	Containerized inference, Kubernetes deployment, autoscaling patterns and telemetry
+Reinforcement learning	PPO, SAC, TD3, continuous control, ablations and robustness experiments
+Data systems	Feature engineering, feature stores, data validation and analytics pipelines
 
 
-Get in touch
-I’m interested in MLOps, ML platform engineering, and applied AI engineering roles, as well as conversations around reliable model deployment and evaluation.
+02 / Selected systems
+A curated route through the projects. Each card links to its source repository; implementation details and setup instructions live there.
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>01 — MLOps.dev</h3>
+<p><a href="https://github.com/Raghunath2604/Raghunath2604-mlops-dev">Repository ↗</a> · <a href="https://www.mlopsde.me">Website ↗</a></p>
+<p>Python SDK and CLI for managing ML deployments to edge devices, with offline-first operation and drift-aware workflows.</p>
+<sub>Python · Edge ML · CLI · Model deployment</sub>
+</td>
+<td width="50%" valign="top">
+<h3>02 — MLOps Commander</h3>
+<p><a href="https://github.com/Raghunath2604/MLops-Commander">Repository ↗</a></p>
+<p>Customer-churn ML lifecycle with orchestration, experiment tracking, champion/challenger patterns, explainability and monitoring.</p>
+<sub>MLflow · Airflow · FastAPI · Docker · SHAP</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>03 — ReviewPilot</h3>
+<p><a href="https://github.com/Raghunath2604/review_pilot">Repository ↗</a> · <a href="https://reviewpilot-gamma-indol.vercel.app/">Live app ↗</a></p>
+<p>LLM-assisted code review with schema-validated analysis and a feedback loop for tracking accepted findings and false positives.</p>
+<sub>TypeScript · LLMs · Zod · PostgreSQL</sub>
+</td>
+<td width="50%" valign="top">
+<h3>04 — CV Inference on Kubernetes</h3>
+<p><a href="https://github.com/Raghunath2604/cv-inference-k8s">Repository ↗</a></p>
+<p>Shape-classification inference service with a FastAPI API, Docker packaging, Kubernetes deployment, HPA and Prometheus/Grafana observability.</p>
+<sub>PyTorch · FastAPI · Kubernetes · Prometheus</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>05 — Transaction Feature Pipeline</h3>
+<p><a href="https://github.com/Raghunath2604/txn-feature-pipeline">Repository ↗</a></p>
+<p>Data-centric transaction feature engineering with point-in-time correctness and feature-store concepts.</p>
+<sub>PySpark · Feast · DVC · Redis · AWS</sub>
+</td>
+<td width="50%" valign="top">
+<h3>06 — Weather MLOps</h3>
+<p><a href="https://github.com/Raghunath2604/RAG_mlops">Repository ↗</a></p>
+<p>Real weather data, realtime inference, prediction logging, drift reporting, retraining workflows and operational dashboards.</p>
+<sub>Python · FastAPI · MLflow · Evidently · Grafana</sub>
+</td>
+</tr>
+</table><details>
+<summary><strong>More applied AI, analytics and systems projects</strong></summary>Project	Focus
+Ticket Classification MLOps	DistilBERT classification, MLflow registry, drift monitoring and CI/CD
+Churn + Retention Agent	Churn prediction, feature management and an LLM-assisted retention workflow
+AS³ — Autonomous Synthetic Space Scientist	Space telemetry, anomaly detection, multi-agent orchestration and visualization
+Fog-IDS Smart City	Resource-aware multi-class intrusion detection for IoT/fog environments
+Fraud Detection on AWS ECS	FastAPI inference, Docker and AWS ECS deployment
+Geospatial Measurement API	Geospatial ingestion, coordinate transformations and geometric measurements
+Bluestock Mutual Fund Analytics	Fund performance, investor analytics and dashboard reporting
+FinTech Internship Work	Financial data extraction, analysis and software fundamentals
+Prism — Stellar Soroban	Rust and Soroban smart-contract exploration for tokenized liabilities
 
-LinkedIn ·
-Portfolio ·
-MLOps.dev ·
-Email
 
-<sub>More detail, setup instructions, and implementation notes are in the individual project repositories.</sub>
+</details>03 / Research & experiments
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>PPO vs SAC vs TD3</h3>
+<p><a href="https://github.com/Raghunath2604/ppo-vs-sac">Repository ↗</a></p>
+<p>From-scratch continuous-control implementations and a reproducible comparison harness, with multi-seed experiments and statistical analysis.</p>
+<sub>PyTorch · Gymnasium · MuJoCo</sub>
+</td>
+<td width="50%" valign="top">
+<h3>Sim-to-Real Robustness</h3>
+<p><a href="https://github.com/Raghunath2604/Sim-to-Real_Robustness">Repository ↗</a> · <a href="https://sim-to-real-robustness-plum.vercel.app/">Project site ↗</a></p>
+<p>Investigating how policy performance changes under domain and dynamics variation using domain-randomized reinforcement learning experiments.</p>
+<sub>PPO · Domain randomization · MuJoCo</sub>
+</td>
+</tr>
+</table><div align="center">A policy learned in simulation — visualized in motion
+<img src="https://raw.githubusercontent.com/Raghunath2604/Proximal-Policy-Optimization-PPO-/main/assets/halfcheetah_demo.gif" width="640" alt="PPO HalfCheetah simulated policy rollout" />
+<sub><a href="https://github.com/Raghunath2604/Proximal-Policy-Optimization-PPO-">PPO From Scratch repository</a> · continuous-control demonstration</sub>
+</div>04 / Technology map
+<div align="center">Languages
+<img src="https://skillicons.dev/icons?i=python,cpp,go,typescript,javascript,sql&theme=dark" alt="Python, C++, Go, TypeScript, JavaScript and SQL" />
+AI, ML & data
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark" alt="PyTorch, TensorFlow, OpenCV and scikit-learn" />
+Infrastructure & cloud
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,nginx,postgres,mongodb,redis&theme=dark" alt="Docker, Kubernetes, AWS, Linux, Nginx, PostgreSQL, MongoDB and Redis" />
+Application engineering
+<img src="https://skillicons.dev/icons?i=fastapi,flask,react,nextjs,tailwind,nodejs&theme=dark" alt="FastAPI, Flask, React, Next.js, Tailwind and Node.js" /></div>
+Additional tools and platforms: MLflow · DVC · Airflow · Feast · Prometheus · Grafana · Evidently · Hugging Face · Gymnasium · MuJoCo · Streamlit.
+05 / GitHub activity
+<div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=Raghunath2604&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghunath2604&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most used languages" /><img src="https://github-readme-activity-graph.vercel.app/graph?username=Raghunath2604&bg_color=00000000&color=55D6E8&line=22A6B3&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" /></div>06 / Beyond the README
+The profile README is the project index. The actual scroll-driven experience lives in the portfolio website, where the interface can use page transitions, interactive components and motion tied to scrolling.
+<div align="center">
+<a href="https://raghunath-portfolio-beta.vercel.app/"><img src="https://img.shields.io/badge/ENTER_THE_PORTFOLIO-Explore_the_full_experience-0B1724?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore the portfolio" /></a>
+</div>07 / Connect
+<div align="center">I’m interested in practical engineering conversations around MLOps, AI infrastructure, reinforcement learning, and reliable ML systems.
+
+<a href="https://www.linkedin.com/in/raghunathareddy-gr-30a964341/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+<a href="https://raghunath-portfolio-beta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore-111827?style=for-the-badge&logo=vercel" alt="Portfolio" /></a>
+<a href="mailto:raghunathareddygr94@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+Build → Measure → Learn → Improve.
+</div>
